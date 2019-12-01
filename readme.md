@@ -43,4 +43,4 @@ The second important feature is count of roll advert, which is as expected. As a
 
 The third important feature is count of adding friends. It shows the power of a friendship. The more people a user can find who share the same music taste, the more possible the user will stay.
 
-I post a blog about the detail, you can find it [here]().
+I post a blog about the detail, you can find it [here](https://medium.com/@tongxingren/sparkify-dear-users-stay-with-us-d614c0317ce5).
