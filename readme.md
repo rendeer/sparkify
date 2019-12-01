@@ -12,9 +12,13 @@
 This project uses the following software and Python libraries:
 
 python==3.6.3 
+
 pyspark==2.4.3 
+
 pandas==0.23.3 
+
 matplotlib==2.1.0
+
 seaborn==0.8.1
 
 You will also need to have software installed to run and execute a Jupyter Notebook.
